@@ -31,6 +31,6 @@ app.get('/', (req, res) => {
 
 
 
-app.listen(https://lawrencesalinas.github.io/RESTful_creatures/, () => {
+app.listen(8000, () => {
     console.log("RESTful_creautres")
 })
